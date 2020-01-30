@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-trafficlight/static/css/main.d0b94b8f.chunk.css",
+    "main.js": "/react-trafficlight/static/js/main.61b52fad.chunk.js",
+    "main.js.map": "/react-trafficlight/static/js/main.61b52fad.chunk.js.map",
+    "runtime-main.js": "/react-trafficlight/static/js/runtime-main.5b638e0f.js",
+    "runtime-main.js.map": "/react-trafficlight/static/js/runtime-main.5b638e0f.js.map",
+    "static/js/2.0d6a0ae7.chunk.js": "/react-trafficlight/static/js/2.0d6a0ae7.chunk.js",
+    "static/js/2.0d6a0ae7.chunk.js.map": "/react-trafficlight/static/js/2.0d6a0ae7.chunk.js.map",
+    "index.html": "/react-trafficlight/index.html",
+    "precache-manifest.fd8db98f10bd36011ee8869ce385ad63.js": "/react-trafficlight/precache-manifest.fd8db98f10bd36011ee8869ce385ad63.js",
+    "service-worker.js": "/react-trafficlight/service-worker.js",
+    "static/css/main.d0b94b8f.chunk.css.map": "/react-trafficlight/static/css/main.d0b94b8f.chunk.css.map",
+    "static/js/2.0d6a0ae7.chunk.js.LICENSE": "/react-trafficlight/static/js/2.0d6a0ae7.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b638e0f.js",
+    "static/js/2.0d6a0ae7.chunk.js",
+    "static/css/main.d0b94b8f.chunk.css",
+    "static/js/main.61b52fad.chunk.js"
+  ]
+}
